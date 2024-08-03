@@ -7,6 +7,8 @@ This project involves a comprehensive analysis of the IPL 2022 Auction. The goal
 
 ### [Data Sources](https://www.kaggle.com/datasets/shivavashishtha/2022-ipl-auction-dataset)
 
+### [Notebook](https://www.kaggle.com/code/yaminh/ipl-auction-eda-with-powerbi-and-duckdb)
+
 ### Analysis and Visualizations
 
 1. **Players Analysis by Nationality**: 
